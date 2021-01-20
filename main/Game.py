@@ -126,7 +126,7 @@ def initialize():
     icon_image = pygame.image.load(core.ICONPATH)
     pygame.display.set_icon(icon_image)
     screen = pygame.display.set_mode([606, 606])
-    pygame.display.set_caption('Game Animation')
+    pygame.display.set_caption('By Rizwan.AR')
     return screen
 
 
